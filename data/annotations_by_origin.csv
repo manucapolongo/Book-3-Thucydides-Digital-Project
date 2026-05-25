@@ -1,0 +1,51 @@
+pleiades_id;origin;place_name;latitude;longitude;location_precision;person_count;individual_count;group_count;people;pct_named
+579885;Athens;Athenae;37.97158606761233;23.72382469700237;rough;221;117;104;"Alcisthenes; Ammias; Antimnestus; Aristotle; Asopius; Athenian commanders; Athenian vessels; Athenians; Callias; Charceades; Charoeades; Cleaenetus; Cleippides; Cleon; Coroebus; Daimachus; Deinias; Demosthenes; Diitrephes; Diodotus; Epicurus; Eucrates; Euphiletus; Eupompides; Eurymedon; Hierophon; Hipponicus; Isolochus; Laches; Lysicles; Melanopus; Niceratus; Nicias; Nicostratus; Paches; Phormio; Pisistratus; Procles; Pythodorus; Sophocles; Sostratides; Theaenetus; Theodorus; Thucles; Thucydides; Timocrates; Tolmides; he Athenian horse; the citizens of Athens";52.9
+570685;Sparta;Sparta;37.08184552460426;22.42468254617709;precise;124;52;72;"Agis; Alcidas; Archidamus; Brasidas; Cleomenes; Damagon; Eurylochus; Lacedaemonian envoys; Lacedaemonians; Lacedaemonians,; Leon; Macarius; Menedaius; Pausanias; Peloponnesian ships; Peloponnesian triremes and privateers; Peloponnesians; Pleistoanax; Salaethus; Tellis; Zeuxidamus";36.5
+541063;Platea;Plataea;38.2210753;23.27353775;precise;33;4;29;"Plataean; Plataean party; Plataeans; Aeimnestus; Asopolaus; Astymachus; Lacon";12.1
+550763;Mytilene;Mytilene;39.110475;26.547048;precise;37;0;37;Mitylenians;0.0
+530767;Acarnania;Acarnania;38.69172145440447;21.049797905284336;precise;26;0;26;"Acarnanian; Acarnanians";0.0
+530794;Ambracia;Ambracia;39.1549245;20.990092500000003;precise;26;0;26;"Ambraciot triremes; Ambraciots";0.0
+540591;Aetolia;Aetolia;38.70283552763194;21.73891803174163;precise;23;6;17;"Aetolians; Agraeans; Boriades; Salynthius; Tolophus; Tisander";26.0
+530834;Corcyra;Corcyra (settlement);39.60813;19.906703;precise;17;5;12;"Corcyraean vessels; Corcyraeans; Peithias";29.4
+541138;Thebe;Thebai/Thebae;38.319948833333335;23.317653433333334;precise;16;1;15;"Theban oppressors; Thebans; Hermaeondas";6.25
+570480;Messenia;Messenia;37.11719301153626;21.895855123442068;precise;12;1;11;"Chromon; Messenian heavy infantry; Messenians";8.3
+550696;Lesbos;Lesbos (island);39.17745702212158;26.23747554008452;rough;10;0;10;"Lesbians; the Lesbian fleet,";0.0
+462503;Syracusae;Syracusae/Syrakousai;37.07007897101367;15.283335658142615;rough;9;0;9;Syracusans;0.0
+540689;Boetia;Boeotia;38.31689716720101;23.13491914185319;rough;7;0;7;Boeotians;0.0
+452369;Locri;Lokroi Epizephyrioi;38.226295500000006;16.244339500000002;precise;10;4;6;"Locrians; Capaton; Proxenus";40.0
+530797;Amphilocia;Amphilochia;38.989617832069726;21.242527169063973;precise;6;0;6;Amphilochians;0.0
+550701;Lydia;Lydia/Maionia (region);38.58651991138021;28.74612827241524;rough;6;3;3;"Itamenes; Pissuthnes; barbarian mercenaries; barbarians";50.0
+570459;Mantineia;Mantineia/Antigoneia;37.6173785;22.3925775;precise;6;0;6;Mantineans;0.0
+570102;Arcadia;Arcadia;37.565025000000006;22.299167;rough;5;2;3;"Arcadian; Arcadians; Hippias";40.0
+570182;Corinthus;Corinthus/Korinthos;37.90564164345828;22.878614390874485;precise;4;2;2;"Corinthians; Euthycles; Xenocleides";50.0
+599577;Colophon;Colophon;38.108253;27.1483085;precise;4;0;4;Colophonians;0.0
+462279;leontini;Leontini;37.285478;14.998115;precise;3;0;3;Leontines;0.0
+530975;Leucas;Leucas (island);38.698754550170605;20.65365223867039;precise;3;0;3;"Leucadian; Leucadians";0.0
+541157;Trachis;Trachis/Herakleia;38.792037;22.447577;precise;3;1;2;"Tisamenus; Trachinians";33.3
+531154;Zacynthus;Zakythos/Zacynthus (settlement);37.791389;20.895278;precise;2;0;2;Zacynthians;0.0
+580114;Tanagra;Tanagra;38.309293524969846;23.58648747783495;precise;2;0;2;Tanagraeans;0.0
+455268;Rhegion;Untitled;38.75;16.0;rough;2;0;2;Rhegians;0.0
+531104;Stratos;Stratos;38.671727;21.319477;precise;2;0;2;Stratians;0.0
+541048;Phocis;Phocis;38.555707572765925;22.68657558899859;rough;2;0;2;Phocians;0.0
+462485;Scicli;Scicli;36.791428;14.702367;precise;2;0;2;Sicels;0.0
+570221;Elis;Elis (region);37.747673567648086;21.68839605949472;rough;2;2;0;Teutiaplus;100.0
+1332;Thessalia;Thessalia;39.443868328499015;22.295432296217363;rough;1;0;1;Thessalians;0.0
+540630;Amphissa;Amphissa;38.518403;22.374172;precise;1;0;1;Amphissians;0.0
+530826;Cephallania;Cephallania (island);38.24942238382119;20.54740246094121;precise;1;0;1;Cephallenians;0.0
+501439;Imbros;Imbros (island);40.1633120125065;25.85671289367929;precise;1;0;1;Imbrians;0.0
+462270;Catania;Katane/Catina;37.502959;15.088142;precise;1;0;1;Catanians;0.0
+462283;Lipara;Lipara (settlement);38.46740105;14.9539573;precise;1;0;1;Liparians;0.0
+462440;Messina;Pistunina;38.147146;15.529006;precise;1;0;1;Messinese battalions;0.0
+540968;Oeta;Oeta (mountain);38.804382700000005;22.2692091;precise;1;0;1;Oetaeans;0.0
+570106;Argos;Argos;37.63104688932719;22.720380240841404;precise;1;0;1;Argives;0.0
+570406;Laconia;Lacedaemon/Laconia;37.04572728513963;22.660351165682545;precise;1;1;0;Meleas;100.0
+550496;Chios;Chios (settlement);38.3722387;26.132979;precise;1;0;1;Chians;0.0
+550693;Lemnos;Lemnos (island);39.90501982246366;25.229093534025623;precise;1;0;1;Lemnians;0.0
+550911;Tenedos;Tenedos;39.8343172;26.06963835;precise;1;0;1;Tenedians;0.0
+570468;Megara;Megara;37.985078;23.340163;precise;1;0;1;Megarians;0.0
+579844;Aegina;Aegina (island);37.73456251315417;23.489302083723413;precise;1;0;1;Aeginetans;0.0
+570653;Samia;Samikon/Samia;37.525886;21.596223;precise;2;1;1;"Samians; Polycrates";50.0
+570474;Melos;Melos (settlement);36.743864;24.423276;precise;1;0;1;Melians;0.0
+589836;Rhodes;Kamiros;36.33611799050426;27.92123509644663;precise;1;1;0;Dorieus;100.0
+599490;Anaia;Kadıkalesi/Anaia;37.79149590244001;27.270302487715888;precise;1;0;1;the people of Anaia;0.0
+991381;Caria;Caria (province);37.213929893451166;28.08853432374588;rough;1;0;1;Carians;0.0
