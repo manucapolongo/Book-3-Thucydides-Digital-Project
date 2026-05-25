@@ -71,3 +71,21 @@ Dysplays the number of individuals mentioned more than twice coming from a place
 **Layers:**
 - `11_annotations_repeated_individuals.csv` — point layer, X=`longitude`, Y=`latitude`, graduated symbol by `mention_count`, labelled by `QUOTE_TRANSCRIPTION`
 - AWMC tiles — base map
+
+## Licence
+All original datasets and map files in this repository are released under Creative Commons Zero v1.0 Universal (CC0) — no rights reserved. You may copy, modify, and distribute this data without asking permission or providing attribution.
+
+## Attribution and Data Sources
+This project incorporates data from several external sources, each with its own licence. When reusing the datasets in this repository, please attribute the following sources separately:
+
+### Pleiades Gazetteer (geographical coordinates for all CSV files)
+
+Elliott, Tom, Roger Bagnall, Richard Talbert, et al. (eds.). Pleiades: A Gazetteer of Past Places. Institute for the Study of the Ancient World, NYU, 2006–present. https://pleiades.stoa.org. Licensed under Creative Commons Attribution 3.0 (CC BY 3.0). Attribution is required when reusing coordinate data derived from Pleiades.
+
+### Perseus Digital Library (place-mention annotation dataset for Thucydides)
+
+Crane, Gregory (ed.). Perseus Digital Library. Tufts University, 1987–present. https://www.perseus.tufts.edu. The dataset of place annotations for Thucydides' History of the Peloponnesian War was sourced from Perseus and filtered to Book 3 for this project.
+
+### Thucydides, History of the Peloponnesian War (base text)
+
+Thucydides. History of the Peloponnesian War. Translated by J. M. Dent and E. P. Dutton (Crawley translation), 1914. Available via the Perseus Digital Library. Public domain.
